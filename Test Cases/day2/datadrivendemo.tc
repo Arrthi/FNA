@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>datadrivendemo</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>679dc5c4-f472-47c7-94cd-bcaa87e83f91</testCaseGuid>
+   <variable>
+      <defaultValue>'Admin\r\n'</defaultValue>
+      <description></description>
+      <id>e2b536b2-a78e-4b7a-9212-cb669b51ce08</id>
+      <masked>false</masked>
+      <name>Username</name>
+   </variable>
+   <variable>
+      <defaultValue>'admin123\r\n'</defaultValue>
+      <description></description>
+      <id>c92e517e-8835-4c82-bd27-cd7118906988</id>
+      <masked>false</masked>
+      <name>Password</name>
+   </variable>
+</TestCaseEntity>
